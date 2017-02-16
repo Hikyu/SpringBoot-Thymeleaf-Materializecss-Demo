@@ -9,6 +9,6 @@ A demo to show how to  quickly build web applications with springboot
 
 ## Demo
 
-![](http://img3.3lian.com/2013/s1/65/d/104.jpg)
+![](https://github.com/Hikyu/SpringBoot-Thymeleaf-Materializecss-Demo/blob/master/demo/demo.png?raw=true)
 
 
